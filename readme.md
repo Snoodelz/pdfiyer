@@ -7,13 +7,13 @@ PDFiyer is a command-line tool that generates a one page PDF file from a HTML fi
 1. Clone the repository:
 
 ```bash
-   bash git clone https://github.com/snoodelz/pdfiyer.git
+git clone https://github.com/snoodelz/pdfiyer.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-   bash cd pdfiyer
+cd pdfiyer
 ```
 
 3. Install the dependencies:
