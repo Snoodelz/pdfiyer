@@ -36,7 +36,7 @@ or
 npm run pdf <filename>
 ```
 
-Replace `<filename>` with the name of your HTML file or the full path to the file. The script will prompt you to enter a filename for the generated PDF. After entering the filename, the PDF will be saved in the `PDF` directory.
+Replace `<filename>` with the name of your HTML file.
 
 For example, if you have a HTML file named `example.html` in the HTML folder, you would run:
 
