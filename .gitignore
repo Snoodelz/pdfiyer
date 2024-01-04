@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# node_modules directory
+node_modules/
+
+PDF/*
+!PDF/.gitkeep
+
+HTML/*
+!HTML/.gitkeep
+
+*.pdf
+*.html
+
+.DS_Store

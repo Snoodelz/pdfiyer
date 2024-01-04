@@ -1,0 +1,15 @@
+{
+	"name": "pdfiyer",
+	"version": "1.0.0",
+	"description": "",
+	"main": "pdf.js",
+	"scripts": {
+		"pdf": "node pdf.js"
+	},
+	"keywords": [],
+	"author": "Snoodelz",
+	"license": "ISC",
+	"dependencies": {
+		"puppeteer": "^21.6.1"
+	}
+}
